@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.app-container {
+  background-color: #ffc1cb;
+  min-height: 100vh;
+  padding: 20px;
+  text-align: center;
+}
+
+.app-heading {
+  margin-bottom: 20px;
+}
+
+.color-picker-container {
+  display: inline-block;
+  text-align: left;
+}
